@@ -1,0 +1,7 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.kjp12.junkie.internal.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "plugin": "net.kjp12.junkie.internal.mixin.MixinBootstrap"
+}
