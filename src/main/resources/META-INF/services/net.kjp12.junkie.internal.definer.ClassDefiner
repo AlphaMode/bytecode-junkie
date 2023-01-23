@@ -1,0 +1,3 @@
+net.kjp12.junkie.internal.definer.HotspotClassDefiner
+net.kjp12.junkie.internal.definer.OpenJ9ClassDefiner
+net.kjp12.junkie.internal.definer.Jdk9ClassDefiner
